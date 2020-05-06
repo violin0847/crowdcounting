@@ -8,9 +8,9 @@ This repository is based on [davideverona/deep-crowd-counting_crowdnet](https://
 
 The performances are as follows:
 
-![image](https://github.com/violin0847/crowdcounting/blob/master/res1.png)
-![image](https://github.com/violin0847/crowdcounting/blob/master/res2.png)
-![image](https://github.com/violin0847/crowdcounting/blob/master/res3.png)
-![image](https://github.com/violin0847/crowdcounting/blob/master/res4.png)
-![image](https://github.com/violin0847/crowdcounting/blob/master/res5.png)
+![image](https://github.com/violin0847/crowdcounting/master/res1.png)
+![image](https://github.com/violin0847/crowdcounting/master/res2.png)
+![image](https://github.com/violin0847/crowdcounting/master/res3.png)
+![image](https://github.com/violin0847/crowdcounting/master/res4.png)
+![image](https://github.com/violin0847/crowdcounting/master/res5.png)
 
